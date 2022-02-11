@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dyn.rt-dyn", "dyn.rt-dyn\dyn.rt-dyn.vcxproj", "{8499DA51-5C14-41A4-BB7E-CAB3CEA5D2AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static.rt-dyn", "static.rt-dyn\static.rt-dyn.vcxproj", "{CE37DF9F-38E6-4D05-830C-333CF1B6C535}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static.rt-static", "static.rt-static\static.rt-static.vcxproj", "{C3C0CB10-DB02-4C4E-BE9B-05984D07D1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8499DA51-5C14-41A4-BB7E-CAB3CEA5D2AD}.Release|x64.ActiveCfg = Release|x64
+		{8499DA51-5C14-41A4-BB7E-CAB3CEA5D2AD}.Release|x64.Build.0 = Release|x64
+		{CE37DF9F-38E6-4D05-830C-333CF1B6C535}.Release|x64.ActiveCfg = Release|x64
+		{CE37DF9F-38E6-4D05-830C-333CF1B6C535}.Release|x64.Build.0 = Release|x64
+		{C3C0CB10-DB02-4C4E-BE9B-05984D07D1BD}.Release|x64.ActiveCfg = Release|x64
+		{C3C0CB10-DB02-4C4E-BE9B-05984D07D1BD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFF08FD-EAEB-44EC-9B16-55B6FB4EE846}
+	EndGlobalSection
+EndGlobal
